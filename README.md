@@ -1,10 +1,10 @@
 # GBT-Feature-Relationships
-A repo containing the Gradient Boosted Trees (GBT) feature relationships script.
+A repo containing the Gradient Boosted Trees (GBT) feature relationships script.  
 The dashboards relating to these python scripts can be found here:
 
 
 ### KK Box Data Prep
-This python notebook performs all the data manipulation required to prepare the data for the model. The data is taken from this kaggle challenge:
+This python notebook performs all the data manipulation required to prepare the data for the model. The data is taken from this kaggle challenge:  
 https://www.kaggle.com/c/kkbox-churn-prediction-challenge/data
 
 ### LightGBM - Feature relationships
